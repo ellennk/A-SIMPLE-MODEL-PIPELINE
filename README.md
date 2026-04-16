@@ -1,3 +1,4 @@
+[housing.csv](https://github.com/user-attachments/files/26802403/housing.csv)
 # A-SIMPLE-MODEL-PIPELINE
 
 ### KEY OJECTIVE
